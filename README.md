@@ -1,2 +1,3 @@
 # lammps-dask-example
-Example to run a quick lammps simulation
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/srmnitc/lammps-dask-example/master?urlpath=lab)
