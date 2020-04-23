@@ -19,3 +19,4 @@ dependencies:
   - pyscal
   - lammps
   - pylammpsmpi
+  - tqdm
